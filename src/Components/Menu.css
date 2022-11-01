@@ -1,0 +1,23 @@
+.hamburger {
+  margin: 1rem 0rem 0rem 12rem;
+}
+.menudiv {
+  color: white;
+}
+.name {
+  margin: 2rem 10rem 0rem 0rem;
+}
+.ecommerce {
+  margin-left: 1.8rem;
+}
+.saas {
+  margin-right: 1.6rem;
+}
+.crypto {
+  margin-right: 1rem;
+}
+
+.application-div {
+  text-align: start;
+  margin: 1rem 0rem 0rem 1rem;
+}

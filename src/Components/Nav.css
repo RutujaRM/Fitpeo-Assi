@@ -1,0 +1,31 @@
+.flex {
+  display: flex;
+  align-items: center;
+  margin-left: 2rem;
+}
+
+.flag {
+  width: "1em";
+  height: "1em";
+  margin-left: 1rem;
+}
+
+.margin {
+  margin-left: 1rem;
+}
+
+.icons-div {
+  margin-left: 58rem;
+}
+
+.user-icon-div {
+  height: 1.5rem;
+  width: 1.5rem;
+  border-radius: 1.5rem;
+}
+
+.user-icon-div > img {
+  height: 1.5rem;
+  width: 1.5rem;
+  border-radius: 1.5rem;
+}
